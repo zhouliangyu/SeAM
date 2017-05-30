@@ -1,4 +1,4 @@
 SeAM
 =====
 
-(Segmentation And Measurement)
+(SEgmentation And Measurement)
