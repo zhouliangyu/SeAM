@@ -3,7 +3,8 @@ SeAM
 
 (SEgmentation And Measurement)
 
-**nucleiSeg** - a script for nucleus segmentation from a DAPI-stained worm gonad image
+## nucleiSeg ##
+**a script for nucleus segmentation from a DAPI-stained worm gonad image**
 
 nucleiSeg.py is the source code of a snippet I wrote for labeling out nuclei from a DAPI-stained worm gonad image.
 
