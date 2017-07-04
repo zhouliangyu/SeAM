@@ -8,7 +8,7 @@ SeAM
 
 nucleiSeg.py is the source code of a snippet I wrote for labeling out nuclei from a DAPI-stained worm gonad image.
 
-The script takes a image file as the input and segments nuclei out according a series of user-defined parameters (for instance, nucleus diameter and shape factor etc). The final segmentation result would be recorded in the user-defined CSV file.
+This script takes a image file as the input and segments nuclei out according to a series of user-defined parameters (for instance, diameter and shape factor etc). The final segmentation result would be recorded in the user-defined CSV file.
 
 The script makes use of the powerful Python image analysis toolkit scikit-image for this task. The workhorse underneath the cover is the watershed algorithm.
 
